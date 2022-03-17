@@ -1,5 +1,5 @@
 ---
-- name: Hello World! New Branch
+- name: Hello World!
   hosts: all
 
   tasks:
